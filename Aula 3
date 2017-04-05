@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Meu site</title>
+	<meta charset="utf-8">
+	<style type="text/css">
+		p {color:red;
+			border: 1px solid blue}
+		.paragrafo{
+			color:blue;}
+		#verde{
+			color: green;}
+	</style>
+
+</head>
+<body>
+	<h1 id="verde">Estilo css inline</h1>
+		<p class="paragrafo">
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pharetra leo nunc, nec mollis justo eleifend nec. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque consectetur tempus massa, quis sagittis eros elementum ut. Donec venenatis ac nisl non bibendum. Aliquam erat volutpat. Sed fermentum ante non tortor maximus tempor. Sed non urna ac neque posuere vestibulum vel non ante. Morbi interdum bibendum erat in pharetra. Vivamus scelerisque odio lacus, a pretium risus tristique mattis. Cras vitae pretium lectus. </p>
+		<p id="verde">
+		Nam hendrerit pellentesque lobortis. Phasellus egestas nulla ut odio semper, eget euismod lectus dignissim. Ut eget augue vitae ante sagittis consectetur sed nec lorem. Praesent in lectus eros. Vestibulum volutpat volutpat quam quis ultrices. Mauris vel dignissim diam, a scelerisque urna. Nunc at lectus vitae sem blandit maximus.</p>
+		<p class="paragrafo">
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pharetra leo nunc, nec mollis justo eleifend nec. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque consectetur tempus massa, quis sagittis eros elementum ut. Donec venenatis ac nisl non bibendum. Aliquam erat volutpat. Sed fermentum ante non tortor maximus tempor. Sed non urna ac neque posuere vestibulum vel non ante. Morbi interdum bibendum erat in pharetra. Vivamus scelerisque odio lacus, a pretium risus tristique mattis. Cras vitae pretium lectus. </p>
+		<p>
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pharetra leo nunc, nec mollis justo eleifend nec. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque consectetur tempus massa, quis sagittis eros elementum ut. Donec venenatis ac nisl non bibendum. Aliquam erat volutpat. Sed fermentum ante non tortor maximus tempor. Sed non urna ac neque posuere vestibulum vel non ante. Morbi interdum bibendum erat in pharetra. Vivamus scelerisque odio lacus, a pretium risus tristique mattis. Cras vitae pretium lectus. </p>
+</body>
+</html>
